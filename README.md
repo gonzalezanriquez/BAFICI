@@ -10,3 +10,6 @@
 </p>
 
 <div align="center"><a href="https://bafici.onrender.com/"  target="_blank"k>LINK WEB</a></div>
+
+[Ver el documento PDF](./assets/BAFICI.pdf)
+
