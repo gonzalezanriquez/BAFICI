@@ -8,7 +8,5 @@
 <p align="center">
   (Propuesta de mejora de imagen del festival de la Ciudad de Buenos Aires en el marco de la primera parte de formación de Front End "Codo a Codo").
 </p>
-<p align="center">
- Leandro Gonzalez Anriquez - Agustina Witis- Rocio Vila- Lucas Diaz
-</p>
+
 <div align="center"><a href="https://agusfw.github.io/CAC-proyect/"  target="_blank"k>LINK WEB</a></div>
