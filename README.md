@@ -11,5 +11,5 @@
 
 <div align="center"><a href="https://bafici.onrender.com/"  target="_blank"k>LINK WEB</a></div>
 
-[Ver el documento PDF](https://github.com/gonzalezanriquez/BAFICI/blob/main/public/BAFICI.pdf)
+<div align="center">[Ver el documento PDF](https://github.com/gonzalezanriquez/BAFICI/blob/main/public/BAFICI.pdf)</div>
 
